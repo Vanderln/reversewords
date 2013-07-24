@@ -1,3 +1,3 @@
 Exercise:
 
-Rewrite Ruby's string reverse method using TDD
+Rewrite Ruby's string reverse method using TDD and recursion
